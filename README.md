@@ -8,6 +8,7 @@ www.linkedin.com/in/felipe-belisario
 Captura dos testes:
 ![Captura dos testes](https://github.com/felipesud/vcamp-edabit-javascript-multiplication-table/blob/develop/captura-dos-testes.png)
 
+
 Endereço do desafio:
 
 https://edabit.com/challenge/EpwHHdFF6EABASmhL
