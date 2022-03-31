@@ -29,14 +29,15 @@ output:
 
 function multiplicationTable(n) {
 	let resultado = [];
+  let tabelaFinal = resultado
     for (let j = 1; j <= n; j++) {
       resultado.push(calculaElemento(j, n));
     }
-    return resultado;
+    return tabelaFinal;
   }
 
 
 
-
+console.log(multiplicationTable(10))
 
 
