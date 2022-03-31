@@ -3,7 +3,7 @@
 
 Felipe dos Santos Belisário
 
-https://www.linkedin.com/in/felipe-belisario-448b3230/
+www.linkedin.com/in/felipe-belisario
 
 Captura dos testes:
 ![Captura dos testes](https://github.com/felipesud/vcamp-edabit-javascript-multiplication-table/blob/develop/captura-dos-testes.png)
