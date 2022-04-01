@@ -6,7 +6,7 @@ Felipe dos Santos Belisário
 www.linkedin.com/in/felipe-belisario
 
 Captura dos testes:
-![Captura dos testes](https://github.com/felipesud/vcamp-edabit-javascript-multiplication-table/blob/develop/captura-dos-testes.png)
+![Captura dos testes](https://github.com/felipesud/vcamp-edabit-javascript-multiplication-table/blob/master/captura-dos-testes.png)
 
 
 Endereço do desafio:
